@@ -1,3 +1,4 @@
+![logo](https://github.com/ashishkaushal1987/ashish/blob/main/githubbanner.png)
 <h1 align="center">Hi 👋, I'm Ashish Kaushal</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
